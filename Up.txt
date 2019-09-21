@@ -1,4 +1,4 @@
-{"version_code":453,"content":"
+{"version_code":452850,"content":"
 <p>تحديث 6.20</p>
 
 <li>التحديث لنسخة الماركت 2.16.310</li>
