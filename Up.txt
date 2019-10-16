@@ -1,4 +1,4 @@
-{"version_code":452qq850,"content":"
+{"version_code":452850,"content":"
 <p> واتساب الأميرات  </p>
 
 <li> يعمل على الاجهزة بنظام 5.0 او أعلى </li>
@@ -10,4 +10,4 @@
 <li> والمــزيـد من الاضافات اكتشفها بنفسك </li>
 <li>اذا واجهتك مشكلة في تحميل التحديث قم بتشغيل تطبيق كاسر بروكسي/vpn/ </li>
 <li>مـع تحـيـات عــزام ديــاب</li>
-","url":"http://www.mediafire.com/file/wdovd6i179sppxa/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8_%25D8%25A7%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA.apk/file" }
+","url":"http://www.mediafire.com/file/8kh50u9oncw2tji/amerat.apk/file" }
